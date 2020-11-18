@@ -1,5 +1,3 @@
-#!/bin/bash
-
 echo '----------MyRec-R4c50----------'
 echo 'Running...'
 mkdir ~/recondata/$1 && cd ~/recondata/$1
